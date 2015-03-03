@@ -2,6 +2,7 @@
 
 ### nginx stats are not very complex and dont have many pieces 
 ###associated with them...
+# require "curl" 
 
 #this is where we put it
 port=6092
